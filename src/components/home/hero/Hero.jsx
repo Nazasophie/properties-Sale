@@ -29,7 +29,7 @@ const Hero = () => {
               <input type='text' placeholder='Price Range' />
             </div>
             <div className='box'>
-              <h4>Advanceee Filter</h4>
+              <h4>Advance Filter</h4>
             </div>
             <button className='btn1'>
               <i className='fa fa-search'></i>
